@@ -9,6 +9,6 @@
 	"compatibleCoreVersion": "0.8.1",
 	"library": true,
 	"url": "https://github.com/hktrpg/node-unar",
-	"manifest": "https://github.com/hktrpg/node-unar/releases/latest/download/module.json",
+	"manifest": "https://raw.githubusercontent.com/hktrpg/node-unar/main/module.json",
 	"download": "https://github.com/hktrpg/node-unar/archive/refs/heads/main.zip"
 }
